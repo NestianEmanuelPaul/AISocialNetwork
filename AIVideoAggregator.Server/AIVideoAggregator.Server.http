@@ -1,0 +1,6 @@
+@AIVideoAggregator.Server_HostAddress = http://localhost:5264
+
+GET {{AIVideoAggregator.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
